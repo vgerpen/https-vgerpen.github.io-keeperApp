@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vgerpen.github.io-keeperApp/precache-manifest.a8072c0639a0348667c7880931225fee.js"
+  "/vgerpen.github.io-keeperApp/precache-manifest.4f87b7e91c71d38fc3600c7ea56d999f.js"
 );
 
 self.addEventListener('message', (event) => {

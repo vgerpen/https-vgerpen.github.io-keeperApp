@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vgerpen.github.io-keeperApp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/vgerpen.github.io-keeperApp/static/js/main.fc1c92c8.chunk.js",
+    "main.js.map": "/vgerpen.github.io-keeperApp/static/js/main.fc1c92c8.chunk.js.map",
+    "runtime-main.js": "/vgerpen.github.io-keeperApp/static/js/runtime-main.ce14db58.js",
+    "runtime-main.js.map": "/vgerpen.github.io-keeperApp/static/js/runtime-main.ce14db58.js.map",
+    "static/js/2.aaa92555.chunk.js": "/vgerpen.github.io-keeperApp/static/js/2.aaa92555.chunk.js",
+    "static/js/2.aaa92555.chunk.js.map": "/vgerpen.github.io-keeperApp/static/js/2.aaa92555.chunk.js.map",
+    "index.html": "/vgerpen.github.io-keeperApp/index.html",
+    "precache-manifest.a8072c0639a0348667c7880931225fee.js": "/vgerpen.github.io-keeperApp/precache-manifest.a8072c0639a0348667c7880931225fee.js",
+    "service-worker.js": "/vgerpen.github.io-keeperApp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/vgerpen.github.io-keeperApp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.aaa92555.chunk.js.LICENSE.txt": "/vgerpen.github.io-keeperApp/static/js/2.aaa92555.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/vgerpen.github.io-keeperApp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce14db58.js",
+    "static/js/2.aaa92555.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fc1c92c8.chunk.js"
+  ]
+}
